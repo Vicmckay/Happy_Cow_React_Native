@@ -31,8 +31,6 @@ export default function Restaurants() {
 
   return (
     <View>
-      <Search search={search} setSearch={setSearch}></Search>
-
       <Filter
         vegan={vegan}
         setVegan={setVegan}
