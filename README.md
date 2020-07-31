@@ -6,10 +6,10 @@ Projet de fin e formation au Réacteur. Il s'agit d'une copie de l'application H
 
 ## Screenshots
 
-<img src="./assets/happy_1.png" width="400px"> </img>
-<img src="./assets/happy_2.png" width="400px"> </img>
-<img src="./assets/happy_3.png" width="400px"> </img>
-<img src="./assets/happy_4.png" width="400px"> </img>
+<img src="./assets/happy_1.png" width="300px"> </img>
+<img src="./assets/happy_2.png" width="300px"> </img>
+<img src="./assets/happy_3.png" width="300px"> </img>
+<img src="./assets/happy_4.png" width="300px"> </img>
 
 ## Packages
 
